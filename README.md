@@ -14,7 +14,8 @@ Clone the repository:
 ```
 mkdir misty_ws
 cd misty_ws
-git clone --recursive https://github.com/CMU-AI-Maker-Space/Misty_ROS2.git
+mkdir src
+git clone --recursive https://github.com/CMU-AI-Maker-Space/Misty_ROS2.git src
 ```
 
 
